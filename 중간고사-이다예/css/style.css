@@ -1,0 +1,167 @@
+body {
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
+}
+
+.slide {
+  background-position: center;
+  background-size: cover;
+  height: 470px;
+  padding: 70px 10px 0 30px
+}
+
+.slide-01 {
+  background-image: url('../img/slide-01.png');
+}
+
+.slide-02 {
+  background-image: url('../img/slide-02.png');
+}
+
+.slide-02 h2 {
+  color: #AD6B48
+}
+
+.slide-03 {
+  background-image: url('../img/slide-03.png');
+}
+
+.slide h2 {
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: -1.4px;
+  line-height: 55px
+}
+
+.slide .btn {
+  padding: 10px 53px;
+}
+
+.section {
+  padding-top: 80px;
+  padding-bottom: 80px
+}
+
+.section-01 {
+  background-color: #1A6FB7;
+  color: #fff;
+  text-align: center;
+}
+
+.section-01 h4 {
+  text-align: left;
+}
+
+.section-01 p {
+  text-align: left;
+  color: #98DFFF
+}
+
+.section-02 {
+  text-align: center;
+  fill : #fff
+}
+
+.section-02 h5 {
+  text-align: left;
+}
+
+.section-02 h6 {
+  color: #969696
+}
+
+.section-02 p {
+  text-align: left;
+  color: #494949
+}
+
+.section-03 {
+  text-align: center;
+}
+
+.section-03 h5 {
+  text-align: left;
+}
+
+.section-03 h6 {
+  color: #969696
+}
+
+.section-03 p {
+  text-align: left;
+  color: #494949
+}
+
+.section-03 .btn {
+  padding: 7px 53px;
+}
+
+.section-04 {
+  text-align: center;
+}
+
+.section-04 h5 {
+  text-align: left;
+}
+
+.section-04 h6 {
+  color: #969696
+}
+
+.section-04 p {
+  text-align: left;
+  color: #494949
+}
+
+.board header {
+  margin-bottom: 10px
+}
+
+.board header strong {
+  font-size: 28px;
+  font-weight: 400
+}
+
+.board header a {
+  margin-left: 10px;
+  color: #666
+}
+
+.board ul {
+  border-top: 2px solid #000
+}
+
+.board li {
+  padding: 9px 0
+}
+
+.board li:first-child {
+  padding-top: 22px;
+}
+
+.board li .badge {
+  margin-right: 10px;
+  width: 70px
+}
+
+.board .date {
+  color: #999;
+  font-weight: 300;
+  float: right;
+}
+
+a {
+  color: #333
+}
+
+a:hover {
+  text-decoration: none;
+  color: #333
+}
+
+.footer {
+  background-color: #F8F9FA;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  color: #6D6D6D;
+}
