@@ -2,3 +2,25 @@
   max-width: 100%;
   height: auto;
 }
+
+.container1 {
+  background-image: url(../img/1-portfolioBG.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 950px;
+  overflow: hidden;
+}
+
+.container2 {
+  background-image: url(../img/2-portfolioBG.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 1050px;
+  overflow: hidden;
+}
+
+.container3 {
+  background-image: url(../img/3-portfolioBG.png);
+  background-repeat: no-repeat;
+  height: 1050px;
+}
